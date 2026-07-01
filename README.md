@@ -7,6 +7,8 @@ I'm ElStep. I make video games. I use **Lua, Zig and Godot.** I love fantasy con
 - TIC-80: [E1Step](https://tic80.com/dev?id=13737)
 - Itch.io: [ElStep](https://electroblaststep.itch.io/)
 
+**Currently working: Melocraft, Metagun TIC-80 demake**
+
 ## Genres:
 - Platformer
 - Survival
@@ -15,4 +17,5 @@ I'm ElStep. I make video games. I use **Lua, Zig and Godot.** I love fantasy con
 - [Melocraft](https://electroblaststep.itch.io/melocraft)
 ![Melocraft](images/Melocraft.png)
 - [Stack survival](https://electroblaststep.itch.io/stack-survival) (abandoned)
+![Stack survival](images/Stack.png)
 
