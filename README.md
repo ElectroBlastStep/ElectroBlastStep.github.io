@@ -4,11 +4,10 @@ I'm ElStep. I make video games. I use **Lua, Zig and Godot.** I love fantasy con
 
 - Email: electroblaststep@proton.me
 - X/Twitter: [@realElStep](https://x.com/realElStep)
-- [My TIC-80 account](https://tic80.com/dev?id=13737)
-- [My Itch.io account](https://electroblaststep.itch.io/)
+- TIC-80: [E1Step](https://tic80.com/dev?id=13737)
+- Itch.io: [ElStep](https://electroblaststep.itch.io/)
 
-# Genres:
+## Genres:
 - Platformer
 - Survival
-
 
