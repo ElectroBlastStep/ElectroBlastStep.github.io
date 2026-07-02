@@ -6,6 +6,7 @@ I'm ElStep. I make video games. I use **Lua, Zig and Godot.** I love fantasy con
 - X/Twitter: [@realElStep](https://x.com/realElStep)
 - TIC-80: [E1Step](https://tic80.com/dev?id=13737)
 - Itch.io: [ElStep](https://electroblaststep.itch.io/)
+- YouTube: [ElStep](https://youtube.com/@electroblaststep?si=Hm-nMUii0YrNN8qt)
 
 **Currently working: Melocraft, Metagun TIC-80 demake**
 
