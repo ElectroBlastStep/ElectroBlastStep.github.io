@@ -9,6 +9,12 @@ I'm ElStep. I make video games. I use **Lua, Zig and Godot.** I love fantasy con
 
 **Currently working: Melocraft, Metagun TIC-80 demake**
 
+## My interests:
+- GTA Vice City
+- Balatro
+[Puppies and Kittens](https://parovoz.tv/en/koshechki-sobachki)
+- Geometry dash
+
 ## Genres:
 - Platformer
 - Survival
