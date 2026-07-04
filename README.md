@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm ElStep. I make video games. I use **Lua, Zig and Godot.** I love fantasy consoles and pixel art.
+I'm ElStep (full name is ElectroBlastStep). I make video games. I use **Lua, Zig and Godot.** I love fantasy consoles and pixel art.
 
 - Email: electroblaststep@proton.me
 - X/Twitter: [@realElStep](https://x.com/realElStep)
